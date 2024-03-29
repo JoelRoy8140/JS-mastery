@@ -1,2 +1,2 @@
 # JS-mastery
-A code for JS
+A code repo for JS
